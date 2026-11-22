@@ -1,6 +1,6 @@
 # NotDeathcookie
 
-(IMG_8042.JPG)
+![holly](IMG_8042.JPG)
 
 Interested in software development, programming, and exploring how things work under the hood.
 
