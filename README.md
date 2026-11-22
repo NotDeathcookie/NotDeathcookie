@@ -1,6 +1,6 @@
 # NotDeathcookie
 
-![holly](IMG_8042.JPG)
+<img src="IMG_8042.JPG" alt="holly" width="50%">
 
 Interested in software development, programming, and exploring how things work under the hood.
 
