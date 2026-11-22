@@ -1,6 +1,6 @@
 # NotDeathcookie
 
-<img src="IMG_8042.JPG" alt="holly" width="50%">
+<img src="IMG_8042.png" alt="holly" width="50%">
 
 I like to program, develop software and work with hardware.
 
