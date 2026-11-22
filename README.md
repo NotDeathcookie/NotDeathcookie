@@ -1,16 +1,18 @@
-## Hi there 👋
+# NotDeathcookie
 
-<!--
-**NotDeathcookie/NotDeathcookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in software development, programming, and exploring how things work under the hood.
 
-Here are some ideas to get you started:
+I mainly work with **C++** and spend a lot of time experimenting with different projects, from Geometry Dash and Geode development to standalone tools and smaller programming experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- [ill-viewer](https://github.com/NotDeathcookie/ill-viewer)
+- [predictive-buffer-api](https://github.com/NotDeathcookie/predictive-buffer-api)
+
+### Interests
+
+C++ · Software Development · Geode · Geometry Dash · Systems & Tooling
+
+---
+
+*Building things, learning along the way.*****
