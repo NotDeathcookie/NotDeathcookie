@@ -2,9 +2,9 @@
 
 <img src="IMG_8042.JPG" alt="holly" width="50%">
 
-Interested in software development, programming, and hardware.
+I like to program, develop software and work with hardware.
 
-I mainly work with **C++** and spend a lot of time experimenting with different projects, from Geometry Dash and Geode development to standalone tools and smaller programming experiments.
+I mostly work in C++ and spend lots of time tinkering with various projects, spanning from Geometry Dash and Geode development to standalone tools and smaller programming experiments.
 
 ### Projects
 
