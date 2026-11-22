@@ -16,5 +16,3 @@ I mainly work with **C++** and spend a lot of time experimenting with different 
 C++ · Software Development · Geode · Geometry Dash · Systems & Tooling
 
 ---
-
-*Building things, learning along the way.*****
