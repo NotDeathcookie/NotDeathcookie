@@ -10,6 +10,7 @@ I mostly work in C++ and spend lots of time tinkering with various projects, spa
 
 - [ill-viewer](https://github.com/NotDeathcookie/ill-viewer)
 - [predictive-buffer-api](https://github.com/NotDeathcookie/predictive-buffer-api)
+- [securevault](https://github.com/NotDeathcookie/securevault)
 
 ### Interests
 
